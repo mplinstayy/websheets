@@ -1,0 +1,36 @@
+<html>
+
+<head>
+		<meta charset="utf-8">
+		<title><font color=#D6E5FF>Персональная страница</font></title>
+
+	</head>
+	<center>
+	<body background=gradient.jpg >
+	
+	<h1>ПерСоНальНая СТранИца</h1>
+
+	<table >
+		<tr>
+			<td><img height=300 width=300 src="bear.jpg"></td>
+			<td>
+				<ul>
+					<li><font color=#332822 size=5>Меня зовут Полина</font></li>
+					<li><font color=#332822 size=5>Мне 19 лет</font></li>
+					<li><font color=#332822 size=5>Я учусь в колледже ЕКТС в группе ПР-32</font></li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><img height=200 width=240 src="heehee.jpg"></td>
+			<td><font color=#332822 size=5>Это мои одногруппники</font></td>
+		</tr>
+	</table>
+	
+		
+
+	</body>
+	</center>
+	
+	
+</html>
